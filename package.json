@@ -2,14 +2,22 @@
   "name": "web",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabilalmirza/DevKlazz-NodeJs-Web-Framework.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabilalmirza/DevKlazz-NodeJs-Web-Framework/issues"
+  },
+  "homepage": "https://github.com/mabilalmirza/DevKlazz-NodeJs-Web-Framework#readme",
   "devDependencies": {
     "nodemon": "^2.0.12"
   }
